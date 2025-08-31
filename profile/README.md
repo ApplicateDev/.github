@@ -10,6 +10,6 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-We're a duo of SWE students at McGill who understand the current struggles that new students in tech experience (we've been there 🫠). 
+We're a group of SWE students at McGill who understand the current struggles that new students in tech experience (we've been there 🫠). 
 
 We're currently working on a project (on our free time) to set young students on the right track to landing their internship while also promoting good habits in **_a fun way!_** ✨ 
