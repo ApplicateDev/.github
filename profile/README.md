@@ -22,11 +22,14 @@ We're currently working on a project (on our free time) to set young students on
 ## 🧩 LeetCode Gamification
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2abd6289-a678-4f4a-9bb7-f3bf7c02ff4a" width="80%" />
+  <img width="1512" height="762" alt="Screenshot 2025-10-20 at 10 17 35 PM" src="https://github.com/user-attachments/assets/961d3d19-4e92-4013-821c-f7e5243bdaf1" />
 </p>
 
 ## 🐙 GitHub Gamification
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9735e805-43a0-49d2-8bdb-dbb75dc515cc" width="80%" />
+  <img width="1512" height="725" alt="Screenshot 2025-10-20 at 10 17 23 PM" src="https://github.com/user-attachments/assets/30feaf20-7262-4131-8dd3-150af6d4ff8f" />
+
 </p>
 
 
