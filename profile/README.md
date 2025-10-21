@@ -14,14 +14,21 @@ We're a group of SWE students at McGill who understand the current struggles tha
 
 We're currently working on a project (on our free time) to set young students on the right track to landing their internship while also promoting good habits in **_a fun way!_** ✨ 
 
-Preview: 
+## 📊 Dashboard
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/786e48b8-ca44-4369-90f4-c69499649b35" width="80%" />
+</p>
 
+## 🧩 LeetCode Gamification
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2abd6289-a678-4f4a-9bb7-f3bf7c02ff4a" width="80%" />
+</p>
 
-<img width="1512" height="655" alt="Screenshot 2025-10-20 at 10 13 34 PM" src="https://github.com/user-attachments/assets/786e48b8-ca44-4369-90f4-c69499649b35" />
+## 🐙 GitHub Gamification
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9735e805-43a0-49d2-8bdb-dbb75dc515cc" width="80%" />
+</p>
 
-<img width="1512" height="618" alt="Screenshot 2025-10-20 at 10 13 25 PM" src="https://github.com/user-attachments/assets/2abd6289-a678-4f4a-9bb7-f3bf7c02ff4a" />
-
-<img width="1511" height="664" alt="Screenshot 2025-10-20 at 10 13 43 PM" src="https://github.com/user-attachments/assets/9735e805-43a0-49d2-8bdb-dbb75dc515cc" />
 
 
 
